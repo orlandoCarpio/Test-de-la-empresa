@@ -1,0 +1,28 @@
+.error{
+    display: none;
+    background: #ec6868;
+    padding: 10px;
+    font-size: large;
+}
+.contenedor{
+    max-width: 500px;
+    margin: auto;
+    text-align: center;
+    background: blanchedalmond;
+    padding: 5px 10px;
+    font-family: sans-serif;
+}
+#lista{
+    list-style: none;
+    margin: auto;
+    padding: 0;
+}
+li {
+    padding: 2px 5px;
+    background: burlywood;
+    margin: 5px;
+}
+h4 {
+    margin: 0px;
+    padding: 11px 0px;
+}

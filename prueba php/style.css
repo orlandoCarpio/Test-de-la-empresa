@@ -1,0 +1,18 @@
+h4{
+    text-align: center;
+    background: cornflowerblue;
+    margin: 1px;
+    padding: 10px 5px;
+    font-family: sans-serif;
+    color: aliceblue;
+}
+h3{
+    text-align: center;
+}
+.contenedor{
+    max-width: 500px;
+    width: 100%;
+    margin: auto;
+    background: plum;
+    padding: 5px 15px;
+}
